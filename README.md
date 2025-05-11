@@ -2,7 +2,7 @@
 
 This repository contains (A) a set of Python codes used to calculate the excluded areas of adsorbates on metal surfaces based on their molecular structures and volumes determined from van der Waals radii, and (B) MATLAB code for regressing kinetic parameters to fit turnover frequency data with multi-site kinetic model for benzene hydrogenation.
 
-These codes accompany the manuscript: "Determining Site Requirements for Multi-Site Catalysis on Metal Surfaces Using Molecular Areas"
+These codes accompany the manuscript: "Determining Site Requirements for Multi-Site Catalysis on Metal Surfaces Using Molecular Areas" published in the Journal of Catalysis (https://doi.org/10.1016/j.jcat.2025.116179)
 
 (A) Two models are included:
 
