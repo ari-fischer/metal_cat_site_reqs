@@ -18,5 +18,6 @@ The code requires the Atomic Simulation Environment (https://wiki.fysik.dtu.dk/a
 
 Version history:
 
-Accepted manuscript (Journal of Catalysis) 28 April 2025
-	Added the MATLAB codes (B)
+Accepted manuscript (Journal of Catalysis) 28 April 2025.
+
+Added the MATLAB codes (B)
